@@ -10,21 +10,21 @@ app.use(cors())
 let kindred = {
 
     'theo': {
-        'generation': 7,
+        'generation': 9,
         'clan': 'brujah',
-        'true age': 300
+        'born/embraced': '1839,1857'
     },
 
     'uncle smelly': {
         'generation': 8,
         'clan': 'nosferatu',
-        'true age': 500
+        'born/embraced': '1892,1905'
         },
 
     'unknown': {
         'generation': 'not known',
         'clan': 'not known',
-        'true age': 'not known'
+        'born/embraced': 'not known'
     },
 }
 
